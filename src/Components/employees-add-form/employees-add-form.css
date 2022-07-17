@@ -1,0 +1,19 @@
+.app-add-form {
+    margin-top: 30px;
+    padding: 25px;
+    background-color: grey;
+    border-radius: 6px;
+    box-shadow: 15px 15px 25px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+.add-form {
+    margin-top: 20px;
+}
+.add-form input {
+    width: 410px;
+    margin-right: 20px;
+}
+h3 {
+    font-family: Ubuntu;
+    text-align: center;
+}
